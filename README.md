@@ -59,6 +59,5 @@ Screen Mockups/Levels
 Here is an example of what your game screen may look like. It consists of a simple image on a black background, and a single UI \&gt; Text element.
 
 
-
 Win screen and level selector(colors=level difficulity)
 
